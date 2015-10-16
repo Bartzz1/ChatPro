@@ -1,0 +1,32 @@
+# [====================] #
+#      ChatPro v1.0      #
+#       by bartzz!       #
+# [====================] #
+
+# [====================] #
+#        Cenzura         #
+# [====================] #
+
+# Czy cenzura slow ma byc wlaczona? (true/false)
+censorship: true
+
+# Slowa, ktore plugin ma ocenzurowac:
+censorwords:
+  - "kurwa"
+  - "dziwka"
+  
+# [====================] #
+#       AutoMessage      #
+# [====================] #
+
+# Czy AutoMessage ma byc wlaczony? (true/false)
+automsg: true
+
+# Czas miedzy wysylaniem wiadomosci: (w min)
+msg-delay: 3
+
+# Wiadomosci:
+messages:
+  - "&7Serwer uzywa &cChatPro &7by &cbartzz&7."
+  - "&eLubisz ten plugin? &aLajknij na mpcforum!"
+  - "&3Lubie &6placki &3:3"

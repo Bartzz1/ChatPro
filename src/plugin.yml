@@ -1,0 +1,11 @@
+name: ChatPro
+version: 1.0
+author: bartzz
+main: net.bartzz.chat.Main
+
+commands:
+  chat:
+    aliases: [ch]
+    descriprion: The main command of plugin.
+  mute:
+    description: Mutes the player.
